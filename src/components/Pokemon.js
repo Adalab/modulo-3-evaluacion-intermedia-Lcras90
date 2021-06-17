@@ -29,5 +29,5 @@ export { Pokemon };
 Pokemon.propTypes = {
   name: PropTypes.string,
   url: PropTypes.string,
-  pokemon: PropTypes.object,
+  type: PropTypes.object,
 };
